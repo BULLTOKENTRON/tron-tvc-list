@@ -1,10 +1,10 @@
 {
-    "address": "TW63guytLiXrGU9KrVgduoHRXaubaUkn3T",
-    "symbol": "Huobi 2nd Space",
-    "name": "Huobi 2nd Space Club",
+    "address": "TNX8bw7G79Cpz7ayfF7Z9o6NUN2XXwKcXQ",
+    "symbol": "BULL",
+    "name": "BULL",
     "decimals": 6,
-    "logoURI": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/56020150-434a-46af-9eaa-fe1ed404c12b.gif",
-    "homepage": "https://www.huobi.com/",
+    "logoURI": "https://cdn.sunpump.meme/public/logo/bull_THbZpA_lvmiythlRs5p.jpg",
+    "homepage": "https://tronbull.lol/",
     "existingMarkets": [
         {
             "source": "ApeNFT",
